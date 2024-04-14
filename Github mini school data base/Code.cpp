@@ -74,7 +74,8 @@ private:
 
 public:
 
-	// Constructor initializing member variables
+	// Constructor initializing member
+//variables
 	Teacher() : Emp_id(""), Course(""), Salary(0) {}
 
 	// Destructor
