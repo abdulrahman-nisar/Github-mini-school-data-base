@@ -2,7 +2,7 @@
 #include<string>
 using namespace std;
 
-const int Max_Size = 50; // Maximum size of the arrays
+const int Max_Size = 50; // Maximum size of the arrays is whatever you think is true
 
 // Base class representing a 
 //  person
