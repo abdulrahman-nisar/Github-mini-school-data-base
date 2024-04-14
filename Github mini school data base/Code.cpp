@@ -7,7 +7,7 @@ using namespace std;
 // Base class representing a
 //  person
 
-const int Max_Size = 50; // Maximum size of whwhwhhwhhwhwhwhwhwwh   hjhjhjhj
+const int Max_Size = 50; // Maximum size of the arrays how do you turn this on?
 //Base class representing a person
 
 class Person
