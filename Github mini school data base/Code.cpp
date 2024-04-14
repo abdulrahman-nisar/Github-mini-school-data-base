@@ -2,7 +2,7 @@
 #include<string>
 using namespace std;
 
-const int Max_Size = 50; // Maximum size of the arrays is whatever you think i true that makes me human
+const int Max_Size = 50; // Maximum size of the arrays is whatever you think i true that makes me human. There is no teacher
 
 // Base class representing a 
 //  person
