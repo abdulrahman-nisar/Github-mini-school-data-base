@@ -3,12 +3,11 @@
 using namespace std;
 
 
-const int Max_Size = 50; // Maximum size of the arrays 
 
 // Base class representing a 
 //  person
 
-const int Max_Size = 50; // Maximum size of the arrays
+const int Max_Size = 50; // Maximum size of the arrays how do you turn this on?
 //Base class representing a person
 
 class Person
