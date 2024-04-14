@@ -13,9 +13,8 @@ private:
 
 public:
 
-	// Constructor initializing member 
-	//variables
-	//nothing
+	// Constructor initializing member variable
+	
 	
 	Person() : Name(""), CNIC(""), Contact_Number(""), Age(0) {}
 
