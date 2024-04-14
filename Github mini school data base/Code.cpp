@@ -4,7 +4,7 @@ using namespace std;
 
 const int Max_Size = 50; // Maximum size of the arrays
 
-// Base class representing a person
+// Base class representing a  person
 class Person
 {
 private:
@@ -13,7 +13,10 @@ private:
 
 public:
 
-	// Constructor initializing member variables
+	// Constructor initializing member 
+	//variables
+	//nothing
+	
 	Person() : Name(""), CNIC(""), Contact_Number(""), Age(0) {}
 
 	// Destructor
