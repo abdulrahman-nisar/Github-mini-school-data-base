@@ -10,6 +10,7 @@ class Person
 {
 private:
 	string Name, CNIC, Contact_Number;
+	// temp
 	int Age;
 
 public:
